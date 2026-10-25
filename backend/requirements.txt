@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+openai
+anthropic
+discord.py
+pytest
+httpx
