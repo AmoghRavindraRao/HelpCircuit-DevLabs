@@ -1,6 +1,9 @@
 # Secrets — never commit the real .env (keep .env.example)
 .env
 backend/.env
+.kiro/
+
+
 
 # Python
 .venv/
