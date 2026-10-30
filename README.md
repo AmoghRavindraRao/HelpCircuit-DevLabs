@@ -122,3 +122,7 @@ machine, the decline/re-select flow, and an end-to-end soft-tradeoff scenario.
 - Identity is the Discord user id (no other auth — a deliberate scope choice).
 - Scheduling is over a bounded hourly grid (08:00–20:00, America/Phoenix), not
   arbitrary datetimes. Works best with 3+ participants.
+
+## Author
+
+Khushal Sai Kolagani
